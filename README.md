@@ -1,1 +1,1 @@
-# device_xiaomi_spes-TWRP
+## Device config for TWRP Redmi Note 11/11 NFC ( spes/spesn )
